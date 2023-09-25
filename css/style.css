@@ -278,9 +278,11 @@ footer img {
     }
 
     #banner p {
-        max-width: 60%;
+        max-width: 55%;
         text-align: center;
         margin: auto;
+        font-size: 22px;
+        margin-bottom: 20px;
     }
 
     #button {
@@ -334,7 +336,8 @@ footer img {
     .second p {
         margin: auto;
         text-align: center;
-        max-width: 80%;
+        max-width: 40%;
+        font-size: 20px;
     }
 
     .second img {
