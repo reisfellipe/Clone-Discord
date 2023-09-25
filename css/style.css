@@ -202,9 +202,10 @@ footer img {
     }
 
     #banner p {
-        max-width: 80%;
+        max-width: 60%;
         text-align: center;
         margin: auto;
+        font-size: 22px;
     }
 
     #button {
